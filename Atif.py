@@ -1,2 +1,0 @@
-
-print ("Paython is Awsome ")
